@@ -76,11 +76,9 @@ const ThemeMenu = () => {
     clickOutsideRef(menu_ref, menu_toggle_ref)
 
     const setActiveMenu = () => menu_ref.current.classList.add('active')
-
     const closeMenu = () => menu_ref.current.classList.remove('active')
 
     const [currMode, setcurrMode] = useState('light')
-
     const [currColor, setcurrColor] = useState('blue')
 
     const dispatch = useDispatch()
@@ -99,11 +97,9 @@ const ThemeMenu = () => {
 
     useEffect(() => {
         const themeClass = mode_settings.find(e => e.class === localStorage.getItem('themeMode', 'theme-mode-light'))
-
         const colorClass = color_settings.find(e => e.class === localStorage.getItem('colorMode', 'theme-mode-light'))
 
         if (themeClass !== undefined) setcurrMode(themeClass.id)
-
         if (colorClass !== undefined) setcurrColor(colorClass.id)
 
     }, []);
