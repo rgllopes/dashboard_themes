@@ -1,4 +1,4 @@
-## ESTE FRONT UTILIZEI PARA TREINAR TÉCNICAS DE REACT
+### ESTE FRONT UTILIZEI PARA TREINAR TÉCNICAS DE REACT
 
 ### TUTORIAL DO VÍDEO DO YOUTUBE
 https://www.youtube.com/watch?v=q8cabjyUTVY&t=2s
@@ -31,7 +31,7 @@ Compila o aplicativo para produção na pasta.\
 Agrupa corretamente o React otimizando a compilação para um melhor desempenho
 Seu app esta pronto para o a implantação
 
-Para mais informações sobre implantação implantação(deployment)
+Para mais informações sobre implantação(deployment)
 ```
 https://facebook.github.io/create-react-app/docs/deployment
 ```
