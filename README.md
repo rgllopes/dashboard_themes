@@ -1,6 +1,6 @@
 ### ESTE FRONT UTILIZEI PARA TREINAR TÉCNICAS DE REACT
 
-### TUTORIAL DO VÍDEO DO YOUTUBE
+#### TUTORIAL DO YOUTUBE
 https://www.youtube.com/watch?v=q8cabjyUTVY&t=2s
 
 ### Opção de temas light e dark e 5 tipos de cores para menus
