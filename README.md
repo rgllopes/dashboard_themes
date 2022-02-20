@@ -1,11 +1,20 @@
-### ESTE FRONT UTILIZEI PARA TREINAR TÉCNICAS DE REACT
+### FRONT UTILIZADO PARA TREINAR TÉCNICAS DE REACT
 
 #### TUTORIAL DO YOUTUBE
 ```
 https://www.youtube.com/watch?v=q8cabjyUTVY&t=2s
 ```
 
-### Opção de temas light e dark e 5 tipos de cores para menus
+#### Opção de temas light e dark e 5 tipos de cores para menus
+
+![Captura de tela de 2022-02-20 11-31-43](https://user-images.githubusercontent.com/55773189/154848403-c4c20281-7c6d-46a5-8ad4-8e7db21790f6.png)
+
+
+### Ferramentas utilizadas no desenvolvimento
+- UBUNTU 20.04 LTS
+- Visual Studio Code
+- Node.js 16.04
+- npm 8.3
 
 ### Para instalação
 
@@ -17,7 +26,7 @@ https://nodejs.org/en/download/
 
 * Rodar npm para instalação de dependências
 ```
-npm install && npm run dev
+npm install && npm run start
 ```
 
 Rodar o app em modo desenvolvimento mode.\
